@@ -1,0 +1,1 @@
+bash -c "echo $(ls -l /bin/cat) >> /home/ning/homework/network/system/test_cat.log;echo $(/bin/cat /etc/shadow) >> /home/ning/homework/network/system/test_cat.log"
